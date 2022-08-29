@@ -40,8 +40,8 @@ def extractFrames(pathIn, pathOut):
         cv2.destroyAllWindows()
     
 def main():
-    extractFrames("H:\OD\camera2", 'C2')
-    # extractFrames("D:\\Fisherman\\2022-2-08\\Camera3", 'c2')
-    # extractFrames("D:\\Fisherman\\2022-2-08\\Camera3", 'c3')
+    extractFrames("Path of your videos folder", 'folder name to extract images')
+    # extractFrames("Path of your videos folder", 'folder name to extract images')
+    # extractFrames("Path of your videos folder", 'folder name to extract images')
 if __name__=="__main__":
     main()
