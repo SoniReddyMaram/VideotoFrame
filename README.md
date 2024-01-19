@@ -1,4 +1,4 @@
-# videotoimage
+# videotoFrames
 
 This is the program for "How to convert video to Frames"
 
