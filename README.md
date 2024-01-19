@@ -1,6 +1,6 @@
 # videotoimage
 
-This is the program for "How to convert video to image"
+This is the program for "How to convert video to Frames"
 
 This program is written in python language
 
